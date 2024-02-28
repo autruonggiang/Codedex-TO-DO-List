@@ -6,7 +6,7 @@ body{
     margin-top: 50px;
   }
   
-  .todo-container{
+  #todo-container{
     background: rgb(41, 33, 33);
     width: 400px;
     margin: 0 auto;
