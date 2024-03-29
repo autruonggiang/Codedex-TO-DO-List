@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## More Resources
+- [Codédex Documentation](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
 - [Source code for this tutorial](https://github.com/exrlla/codedex-api-template/blob/version-final/src/App.jsx)!
 - [Spotify for Developers Web API Documentation](https://developer.spotify.com/documentation/web-api)
 - [Understanding the Spotify API by Spotify Engineering](https://engineering.atspotify.com/2015/03/understanding-spotify-web-api/)
